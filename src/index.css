@@ -1,6 +1,5 @@
-@import "tailwindcss";
 @import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&display=swap");
-
+@import "tailwindcss";
 
 @font-face {
   font-family: "ProximaNova, sans-serif";
@@ -72,7 +71,7 @@ body::-webkit-scrollbar {
       }
 
       .hero-text-scroll {
-        @apply rotate-[-3deg] mb-8 border-[.5vw] border-milk;
+        @apply rotate-[-3deg] mb-2 border-[.3vw] border-milk;
 
         .hero-subtitle {
           @apply bg-mid-brown;
