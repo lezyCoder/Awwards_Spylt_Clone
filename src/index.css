@@ -117,7 +117,7 @@ body::-webkit-scrollbar {
     }
 
     .msg-text-scroll {
-      @apply mt-15 rotate-[5deg] 2xl:translate-y-5 -translate-y-5 absolute z-10 border-[.5vw] border-[#7f3b2d];
+      @apply rotate-[3deg] 2xl:translate-y-5 -translate-y-5 absolute z-10 border-[.5vw] border-[#7f3b2d];
     }
   }
 
@@ -125,7 +125,7 @@ body::-webkit-scrollbar {
     @apply min-h-dvh bg-milk ;
 
     .flavor-text-scroll {
-      @apply rotate-[-6deg] md:translate-y-5 border-[.5vw] border-milk absolute z-10;
+      @apply rotate-[-3deg] md:translate-y-5 border-[.5vw] border-milk absolute z-10;
     }
 
     .first-text-split h1 {
