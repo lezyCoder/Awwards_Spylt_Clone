@@ -160,7 +160,7 @@ body::-webkit-scrollbar {
   .nutrition-section {
     @apply min-h-dvh 2xl:h-[120dvh] overflow-hidden relative;
 
-    .big-img {
+    .big-img public\images\slider-dip.png{
       @apply w-full absolute 2xl:h-full md:h-2/3 h-1/2 left-0 bottom-0 object-bottom 2xl:object-contain object-cover;
     }
 
